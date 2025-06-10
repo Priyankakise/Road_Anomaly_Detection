@@ -1,0 +1,17 @@
+train: E:/JupyterNotebooks/Road_problem/pascal_yolo_dataset/images/train
+val: E:/JupyterNotebooks/Road_problem/pascal_yolo_dataset/images/val
+
+nc: 12
+names:
+  - Lane mark
+  - Plain road
+  - Manhole
+  - Divider
+  - Speed bumps
+  - Cracks
+  - Pothole
+  - Zebra crossing
+  - Footpath
+  - Rumble strips
+  - Sign board
+  - Leading lines
